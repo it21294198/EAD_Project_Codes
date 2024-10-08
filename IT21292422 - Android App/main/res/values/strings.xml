@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ecommerce</string>
+    <string name="title_introduction">Explore <font color="#6033ba">a\n world of everything</font></string>
+    <string name="text_introduction">Browse the latest items from top brands\nEnjoy fast, free shipping</string>
+    <string name="button_introduction">Let\'s Get Started</string>
+    <string name="signin_introduction">Already have an account? <font color="#6033ba">Sign In</font></string>
+    <string name="main_welcome">Welcome Back</string>
+    <string name="main_user_name">John</string>
+    <string name="official_brand">Categories</string>
+    <string name="see_all">See All</string>
+    <string name="popular">Products</string>
+    <string name="explore">Explore</string>
+    <string name="cart_empty">Your Cart is Empty</string>
+</resources>
